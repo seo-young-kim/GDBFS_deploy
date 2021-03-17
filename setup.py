@@ -4,7 +4,7 @@ setup(
     # 배포할 패키지의 이름을 적어줍니다. setup.py파일을 가지는 폴더 이름과 동일하게 합니다.
     name                = 'gdbfs',
     # 배포할 패키지의 버전을 적어줍니다. 첫 등록이므로 0.1 또는 0.0.1을 사용합니다.
-    version             = '0.1',
+    version             = '0.2',
     # 배포할 패키지에 대한 설명을 작성합니다.
     description         = 'Implement thesis '' Lee,J.H., & Oh,S.Y.(2016)Feature selection based on geomteric distance for high-dimensional data. Electronics Letters, 52(6),473-475.'' ',
     # 배포하는 사람의 이름을 작성합니다.
